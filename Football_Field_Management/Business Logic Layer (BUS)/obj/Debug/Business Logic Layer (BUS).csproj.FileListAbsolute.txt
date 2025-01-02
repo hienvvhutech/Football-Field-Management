@@ -1,0 +1,68 @@
+D:\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\obj\Debug\Business Logic Layer (BUS).csproj.AssemblyReference.cache
+D:\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\obj\Debug\Business Logic Layer (BUS).csproj.CoreCompileInputs.cache
+D:\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\Business Logic Layer (BUS).exe.config
+D:\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\Business Logic Layer (BUS).exe
+D:\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\Business Logic Layer (BUS).pdb
+D:\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\Data Access Layer(DAL).exe
+D:\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\EntityFramework.dll
+D:\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\EntityFramework.SqlServer.dll
+D:\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\Data Access Layer(DAL).pdb
+D:\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\Data Access Layer(DAL).exe.config
+D:\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\EntityFramework.xml
+D:\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\EntityFramework.SqlServer.xml
+D:\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\obj\Debug\Business.5F2426BD.Up2Date
+D:\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\obj\Debug\Business Logic Layer (BUS).exe
+D:\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\obj\Debug\Business Logic Layer (BUS).pdb
+D:\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\App.config
+D:\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\Guna.UI2.dll
+D:\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\App.config
+D:\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\Business Logic Layer (BUS).exe.config
+D:\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\Business Logic Layer (BUS).exe
+D:\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\Business Logic Layer (BUS).pdb
+D:\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\Data Access Layer(DAL).exe
+D:\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\EntityFramework.dll
+D:\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\EntityFramework.SqlServer.dll
+D:\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\Guna.UI2.dll
+D:\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\Data Access Layer(DAL).pdb
+D:\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\Data Access Layer(DAL).exe.config
+D:\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\EntityFramework.xml
+D:\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\EntityFramework.SqlServer.xml
+D:\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\obj\Debug\Business Logic Layer (BUS).csproj.AssemblyReference.cache
+D:\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\obj\Debug\Business Logic Layer (BUS).csproj.CoreCompileInputs.cache
+D:\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\obj\Debug\Business.5F2426BD.Up2Date
+D:\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\obj\Debug\Business Logic Layer (BUS).exe
+D:\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\obj\Debug\Business Logic Layer (BUS).pdb
+D:\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\App.config
+D:\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\Business Logic Layer (BUS).exe.config
+D:\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\Business Logic Layer (BUS).exe
+D:\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\Business Logic Layer (BUS).pdb
+D:\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\Data Access Layer(DAL).exe
+D:\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\EntityFramework.dll
+D:\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\EntityFramework.SqlServer.dll
+D:\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\Guna.UI2.dll
+D:\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\Data Access Layer(DAL).pdb
+D:\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\Data Access Layer(DAL).exe.config
+D:\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\EntityFramework.xml
+D:\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\EntityFramework.SqlServer.xml
+D:\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\obj\Debug\Business Logic Layer (BUS).csproj.AssemblyReference.cache
+D:\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\obj\Debug\Business Logic Layer (BUS).csproj.CoreCompileInputs.cache
+D:\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\obj\Debug\Business.5F2426BD.Up2Date
+D:\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\obj\Debug\Business Logic Layer (BUS).exe
+D:\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\obj\Debug\Business Logic Layer (BUS).pdb
+C:\Users\Admin\Documents\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\App.config
+C:\Users\Admin\Documents\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\Business Logic Layer (BUS).exe.config
+C:\Users\Admin\Documents\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\Business Logic Layer (BUS).exe
+C:\Users\Admin\Documents\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\Business Logic Layer (BUS).pdb
+C:\Users\Admin\Documents\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\Data Access Layer(DAL).exe
+C:\Users\Admin\Documents\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Documents\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\Data Access Layer(DAL).pdb
+C:\Users\Admin\Documents\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\Data Access Layer(DAL).exe.config
+C:\Users\Admin\Documents\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\obj\Debug\Business Logic Layer (BUS).csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\obj\Debug\Business Logic Layer (BUS).csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\obj\Debug\Business.5F2426BD.Up2Date
+C:\Users\Admin\Documents\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\obj\Debug\Business Logic Layer (BUS).exe
+C:\Users\Admin\Documents\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\ĐỒ ÁN UD QL SÂN BÓNG\Business Logic Layer (BUS)\obj\Debug\Business Logic Layer (BUS).pdb

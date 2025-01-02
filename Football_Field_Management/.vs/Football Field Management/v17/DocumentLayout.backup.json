@@ -1,0 +1,457 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{385B3891-5CFC-4BB6-B34D-D787A3324B90}|Data Access Layer(DAL)\\Data Access Layer(DAL).csproj|C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\data access layer(dal)\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{385B3891-5CFC-4BB6-B34D-D787A3324B90}|Data Access Layer(DAL)\\Data Access Layer(DAL).csproj|solutionrelative:data access layer(dal)\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385B3891-5CFC-4BB6-B34D-D787A3324B90}|Data Access Layer(DAL)\\Data Access Layer(DAL).csproj|C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\data access layer(dal)\\dal\\ca_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385B3891-5CFC-4BB6-B34D-D787A3324B90}|Data Access Layer(DAL)\\Data Access Layer(DAL).csproj|solutionrelative:data access layer(dal)\\dal\\ca_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385B3891-5CFC-4BB6-B34D-D787A3324B90}|Data Access Layer(DAL)\\Data Access Layer(DAL).csproj|C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\data access layer(dal)\\dal\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385B3891-5CFC-4BB6-B34D-D787A3324B90}|Data Access Layer(DAL)\\Data Access Layer(DAL).csproj|solutionrelative:data access layer(dal)\\dal\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385B3891-5CFC-4BB6-B34D-D787A3324B90}|Data Access Layer(DAL)\\Data Access Layer(DAL).csproj|C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\data access layer(dal)\\dal\\datsan_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385B3891-5CFC-4BB6-B34D-D787A3324B90}|Data Access Layer(DAL)\\Data Access Layer(DAL).csproj|solutionrelative:data access layer(dal)\\dal\\datsan_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385B3891-5CFC-4BB6-B34D-D787A3324B90}|Data Access Layer(DAL)\\Data Access Layer(DAL).csproj|C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\data access layer(dal)\\dal\\hoadon_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385B3891-5CFC-4BB6-B34D-D787A3324B90}|Data Access Layer(DAL)\\Data Access Layer(DAL).csproj|solutionrelative:data access layer(dal)\\dal\\hoadon_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385B3891-5CFC-4BB6-B34D-D787A3324B90}|Data Access Layer(DAL)\\Data Access Layer(DAL).csproj|C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\data access layer(dal)\\enity\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385B3891-5CFC-4BB6-B34D-D787A3324B90}|Data Access Layer(DAL)\\Data Access Layer(DAL).csproj|solutionrelative:data access layer(dal)\\enity\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385B3891-5CFC-4BB6-B34D-D787A3324B90}|Data Access Layer(DAL)\\Data Access Layer(DAL).csproj|c:\\users\\admin\\documents\\\u0111\u1ED3 \u00E1n ud ql s\u00E2n b\u00F3ng\\\u0111\u1ED3 \u00E1n ud ql s\u00E2n b\u00F3ng\\\u0111\u1ED3 \u00E1n ud ql s\u00E2n b\u00F3ng\\data access layer(dal)\\dal\\khachhang_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385B3891-5CFC-4BB6-B34D-D787A3324B90}|Data Access Layer(DAL)\\Data Access Layer(DAL).csproj|solutionrelative:data access layer(dal)\\dal\\khachhang_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A9ED22-39D2-4D40-BC0F-951D3DB3D493}|Presentation Layer (GUI)\\Presentation Layer (GUI).csproj|C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\presentation layer (gui)\\trangchu\\khachhang_gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A9ED22-39D2-4D40-BC0F-951D3DB3D493}|Presentation Layer (GUI)\\Presentation Layer (GUI).csproj|solutionrelative:presentation layer (gui)\\trangchu\\khachhang_gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A9ED22-39D2-4D40-BC0F-951D3DB3D493}|Presentation Layer (GUI)\\Presentation Layer (GUI).csproj|C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\presentation layer (gui)\\trangchu\\khachhang_gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31A9ED22-39D2-4D40-BC0F-951D3DB3D493}|Presentation Layer (GUI)\\Presentation Layer (GUI).csproj|solutionrelative:presentation layer (gui)\\trangchu\\khachhang_gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC37E4D-3D89-4DE6-B472-0493779F8F77}|Business Logic Layer (BUS)\\Business Logic Layer (BUS).csproj|C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\business logic layer (bus)\\ca_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DC37E4D-3D89-4DE6-B472-0493779F8F77}|Business Logic Layer (BUS)\\Business Logic Layer (BUS).csproj|solutionrelative:business logic layer (bus)\\ca_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A9ED22-39D2-4D40-BC0F-951D3DB3D493}|Presentation Layer (GUI)\\Presentation Layer (GUI).csproj|C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\presentation layer (gui)\\trangchu\\qldatsan_gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A9ED22-39D2-4D40-BC0F-951D3DB3D493}|Presentation Layer (GUI)\\Presentation Layer (GUI).csproj|solutionrelative:presentation layer (gui)\\trangchu\\qldatsan_gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A9ED22-39D2-4D40-BC0F-951D3DB3D493}|Presentation Layer (GUI)\\Presentation Layer (GUI).csproj|C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\presentation layer (gui)\\trangchu\\capnhatloaisan_gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A9ED22-39D2-4D40-BC0F-951D3DB3D493}|Presentation Layer (GUI)\\Presentation Layer (GUI).csproj|solutionrelative:presentation layer (gui)\\trangchu\\capnhatloaisan_gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC37E4D-3D89-4DE6-B472-0493779F8F77}|Business Logic Layer (BUS)\\Business Logic Layer (BUS).csproj|C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\business logic layer (bus)\\hoadon_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DC37E4D-3D89-4DE6-B472-0493779F8F77}|Business Logic Layer (BUS)\\Business Logic Layer (BUS).csproj|solutionrelative:business logic layer (bus)\\hoadon_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC37E4D-3D89-4DE6-B472-0493779F8F77}|Business Logic Layer (BUS)\\Business Logic Layer (BUS).csproj|C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\business logic layer (bus)\\khachhang_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DC37E4D-3D89-4DE6-B472-0493779F8F77}|Business Logic Layer (BUS)\\Business Logic Layer (BUS).csproj|solutionrelative:business logic layer (bus)\\khachhang_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC37E4D-3D89-4DE6-B472-0493779F8F77}|Business Logic Layer (BUS)\\Business Logic Layer (BUS).csproj|C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\business logic layer (bus)\\loaisan_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DC37E4D-3D89-4DE6-B472-0493779F8F77}|Business Logic Layer (BUS)\\Business Logic Layer (BUS).csproj|solutionrelative:business logic layer (bus)\\loaisan_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC37E4D-3D89-4DE6-B472-0493779F8F77}|Business Logic Layer (BUS)\\Business Logic Layer (BUS).csproj|C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\business logic layer (bus)\\san_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DC37E4D-3D89-4DE6-B472-0493779F8F77}|Business Logic Layer (BUS)\\Business Logic Layer (BUS).csproj|solutionrelative:business logic layer (bus)\\san_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385B3891-5CFC-4BB6-B34D-D787A3324B90}|Data Access Layer(DAL)\\Data Access Layer(DAL).csproj|C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\data access layer(dal)\\dal\\loaisan_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385B3891-5CFC-4BB6-B34D-D787A3324B90}|Data Access Layer(DAL)\\Data Access Layer(DAL).csproj|solutionrelative:data access layer(dal)\\dal\\loaisan_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385B3891-5CFC-4BB6-B34D-D787A3324B90}|Data Access Layer(DAL)\\Data Access Layer(DAL).csproj|C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\data access layer(dal)\\dal\\san_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385B3891-5CFC-4BB6-B34D-D787A3324B90}|Data Access Layer(DAL)\\Data Access Layer(DAL).csproj|solutionrelative:data access layer(dal)\\dal\\san_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A9ED22-39D2-4D40-BC0F-951D3DB3D493}|Presentation Layer (GUI)\\Presentation Layer (GUI).csproj|C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\presentation layer (gui)\\trangchu\\qldatsan_gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31A9ED22-39D2-4D40-BC0F-951D3DB3D493}|Presentation Layer (GUI)\\Presentation Layer (GUI).csproj|solutionrelative:presentation layer (gui)\\trangchu\\qldatsan_gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A9ED22-39D2-4D40-BC0F-951D3DB3D493}|Presentation Layer (GUI)\\Presentation Layer (GUI).csproj|C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\presentation layer (gui)\\trangchu\\capnhatloaisan_gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31A9ED22-39D2-4D40-BC0F-951D3DB3D493}|Presentation Layer (GUI)\\Presentation Layer (GUI).csproj|solutionrelative:presentation layer (gui)\\trangchu\\capnhatloaisan_gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A9ED22-39D2-4D40-BC0F-951D3DB3D493}|Presentation Layer (GUI)\\Presentation Layer (GUI).csproj|C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\presentation layer (gui)\\trangchu\\trangchu_gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31A9ED22-39D2-4D40-BC0F-951D3DB3D493}|Presentation Layer (GUI)\\Presentation Layer (GUI).csproj|solutionrelative:presentation layer (gui)\\trangchu\\trangchu_gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A9ED22-39D2-4D40-BC0F-951D3DB3D493}|Presentation Layer (GUI)\\Presentation Layer (GUI).csproj|C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\presentation layer (gui)\\trangchu\\thanhtoan_gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31A9ED22-39D2-4D40-BC0F-951D3DB3D493}|Presentation Layer (GUI)\\Presentation Layer (GUI).csproj|solutionrelative:presentation layer (gui)\\trangchu\\thanhtoan_gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A9ED22-39D2-4D40-BC0F-951D3DB3D493}|Presentation Layer (GUI)\\Presentation Layer (GUI).csproj|C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\presentation layer (gui)\\trangchu\\tkdoanhthu_gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31A9ED22-39D2-4D40-BC0F-951D3DB3D493}|Presentation Layer (GUI)\\Presentation Layer (GUI).csproj|solutionrelative:presentation layer (gui)\\trangchu\\tkdoanhthu_gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A9ED22-39D2-4D40-BC0F-951D3DB3D493}|Presentation Layer (GUI)\\Presentation Layer (GUI).csproj|C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\presentation layer (gui)\\trangchu\\nhansan_gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31A9ED22-39D2-4D40-BC0F-951D3DB3D493}|Presentation Layer (GUI)\\Presentation Layer (GUI).csproj|solutionrelative:presentation layer (gui)\\trangchu\\nhansan_gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A9ED22-39D2-4D40-BC0F-951D3DB3D493}|Presentation Layer (GUI)\\Presentation Layer (GUI).csproj|C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\presentation layer (gui)\\trangchu\\datsan_gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31A9ED22-39D2-4D40-BC0F-951D3DB3D493}|Presentation Layer (GUI)\\Presentation Layer (GUI).csproj|solutionrelative:presentation layer (gui)\\trangchu\\datsan_gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A9ED22-39D2-4D40-BC0F-951D3DB3D493}|Presentation Layer (GUI)\\Presentation Layer (GUI).csproj|C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\presentation layer (gui)\\trangchu\\capnhatca_gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31A9ED22-39D2-4D40-BC0F-951D3DB3D493}|Presentation Layer (GUI)\\Presentation Layer (GUI).csproj|solutionrelative:presentation layer (gui)\\trangchu\\capnhatca_gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A9ED22-39D2-4D40-BC0F-951D3DB3D493}|Presentation Layer (GUI)\\Presentation Layer (GUI).csproj|C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\presentation layer (gui)\\dangnhap\\quenmk_gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31A9ED22-39D2-4D40-BC0F-951D3DB3D493}|Presentation Layer (GUI)\\Presentation Layer (GUI).csproj|solutionrelative:presentation layer (gui)\\dangnhap\\quenmk_gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A9ED22-39D2-4D40-BC0F-951D3DB3D493}|Presentation Layer (GUI)\\Presentation Layer (GUI).csproj|C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\presentation layer (gui)\\dangnhap\\dangnhap_gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31A9ED22-39D2-4D40-BC0F-951D3DB3D493}|Presentation Layer (GUI)\\Presentation Layer (GUI).csproj|solutionrelative:presentation layer (gui)\\dangnhap\\dangnhap_gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Data Access Layer(DAL)\\Enity\\KhachHang.cs",
+              "RelativeDocumentMoniker": "Data Access Layer(DAL)\\Enity\\KhachHang.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Data Access Layer(DAL)\\Enity\\KhachHang.cs",
+              "RelativeToolTip": "Data Access Layer(DAL)\\Enity\\KhachHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T16:57:23.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "KhachHang_BUS.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Business Logic Layer (BUS)\\KhachHang_BUS.cs",
+              "RelativeDocumentMoniker": "Business Logic Layer (BUS)\\KhachHang_BUS.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Business Logic Layer (BUS)\\KhachHang_BUS.cs",
+              "RelativeToolTip": "Business Logic Layer (BUS)\\KhachHang_BUS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T16:41:14.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HoaDon_DAL.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Data Access Layer(DAL)\\DAL\\HoaDon_DAL.cs",
+              "RelativeDocumentMoniker": "Data Access Layer(DAL)\\DAL\\HoaDon_DAL.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Data Access Layer(DAL)\\DAL\\HoaDon_DAL.cs",
+              "RelativeToolTip": "Data Access Layer(DAL)\\DAL\\HoaDon_DAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T16:37:57.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatSan_DAL.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Data Access Layer(DAL)\\DAL\\DatSan_DAL.cs",
+              "RelativeDocumentMoniker": "Data Access Layer(DAL)\\DAL\\DatSan_DAL.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Data Access Layer(DAL)\\DAL\\DatSan_DAL.cs",
+              "RelativeToolTip": "Data Access Layer(DAL)\\DAL\\DatSan_DAL.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T16:35:50.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KhachHang_DAL.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Data Access Layer(DAL)\\DAL\\KhachHang_DAL.cs",
+              "RelativeDocumentMoniker": "Data Access Layer(DAL)\\DAL\\KhachHang_DAL.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Data Access Layer(DAL)\\DAL\\KhachHang_DAL.cs",
+              "RelativeToolTip": "Data Access Layer(DAL)\\DAL\\KhachHang_DAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T16:35:22.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoaiSan_BUS.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Business Logic Layer (BUS)\\LoaiSan_BUS.cs",
+              "RelativeDocumentMoniker": "Business Logic Layer (BUS)\\LoaiSan_BUS.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Business Logic Layer (BUS)\\LoaiSan_BUS.cs",
+              "RelativeToolTip": "Business Logic Layer (BUS)\\LoaiSan_BUS.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T15:26:29.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QLDatSan_GUI.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Presentation Layer (GUI)\\TrangChu\\QLDatSan_GUI.cs",
+              "RelativeDocumentMoniker": "Presentation Layer (GUI)\\TrangChu\\QLDatSan_GUI.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Presentation Layer (GUI)\\TrangChu\\QLDatSan_GUI.cs",
+              "RelativeToolTip": "Presentation Layer (GUI)\\TrangChu\\QLDatSan_GUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:56:18.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KhachHang_GUI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Presentation Layer (GUI)\\TrangChu\\KhachHang_GUI.cs",
+              "RelativeDocumentMoniker": "Presentation Layer (GUI)\\TrangChu\\KhachHang_GUI.cs",
+              "ToolTip": "D:\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Presentation Layer (GUI)\\TrangChu\\KhachHang_GUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:24:48.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CapNhatLoaiSan_GUI.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Presentation Layer (GUI)\\TrangChu\\CapNhatLoaiSan_GUI.cs",
+              "RelativeDocumentMoniker": "Presentation Layer (GUI)\\TrangChu\\CapNhatLoaiSan_GUI.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Presentation Layer (GUI)\\TrangChu\\CapNhatLoaiSan_GUI.cs",
+              "RelativeToolTip": "Presentation Layer (GUI)\\TrangChu\\CapNhatLoaiSan_GUI.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowDAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T15:26:46.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KhachHang_GUI.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Presentation Layer (GUI)\\TrangChu\\KhachHang_GUI.cs",
+              "RelativeDocumentMoniker": "Presentation Layer (GUI)\\TrangChu\\KhachHang_GUI.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Presentation Layer (GUI)\\TrangChu\\KhachHang_GUI.cs",
+              "RelativeToolTip": "Presentation Layer (GUI)\\TrangChu\\KhachHang_GUI.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAADwv2EAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T16:46:17.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HoaDon_BUS.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Business Logic Layer (BUS)\\HoaDon_BUS.cs",
+              "RelativeDocumentMoniker": "Business Logic Layer (BUS)\\HoaDon_BUS.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Business Logic Layer (BUS)\\HoaDon_BUS.cs",
+              "RelativeToolTip": "Business Logic Layer (BUS)\\HoaDon_BUS.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T16:41:55.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ca_BUS.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Business Logic Layer (BUS)\\Ca_BUS.cs",
+              "RelativeDocumentMoniker": "Business Logic Layer (BUS)\\Ca_BUS.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Business Logic Layer (BUS)\\Ca_BUS.cs",
+              "RelativeToolTip": "Business Logic Layer (BUS)\\Ca_BUS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T15:15:44.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ca_DAL.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Data Access Layer(DAL)\\DAL\\Ca_DAL.cs",
+              "RelativeDocumentMoniker": "Data Access Layer(DAL)\\DAL\\Ca_DAL.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Data Access Layer(DAL)\\DAL\\Ca_DAL.cs",
+              "RelativeToolTip": "Data Access Layer(DAL)\\DAL\\Ca_DAL.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwEEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T15:15:02.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoaiSan_DAL.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Data Access Layer(DAL)\\DAL\\LoaiSan_DAL.cs",
+              "RelativeDocumentMoniker": "Data Access Layer(DAL)\\DAL\\LoaiSan_DAL.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Data Access Layer(DAL)\\DAL\\LoaiSan_DAL.cs",
+              "RelativeToolTip": "Data Access Layer(DAL)\\DAL\\LoaiSan_DAL.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwEEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T15:25:44.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Data Access Layer(DAL)\\DAL\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "Data Access Layer(DAL)\\DAL\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Data Access Layer(DAL)\\DAL\\DatabaseConnection.cs",
+              "RelativeToolTip": "Data Access Layer(DAL)\\DAL\\DatabaseConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAACWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T16:29:31.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Data Access Layer(DAL)\\App.config",
+              "RelativeDocumentMoniker": "Data Access Layer(DAL)\\App.config",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Data Access Layer(DAL)\\App.config",
+              "RelativeToolTip": "Data Access Layer(DAL)\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-01T16:30:07.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "San_BUS.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Business Logic Layer (BUS)\\San_BUS.cs",
+              "RelativeDocumentMoniker": "Business Logic Layer (BUS)\\San_BUS.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Business Logic Layer (BUS)\\San_BUS.cs",
+              "RelativeToolTip": "Business Logic Layer (BUS)\\San_BUS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:55:49.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "San_DAL.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Data Access Layer(DAL)\\DAL\\San_DAL.cs",
+              "RelativeDocumentMoniker": "Data Access Layer(DAL)\\DAL\\San_DAL.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Data Access Layer(DAL)\\DAL\\San_DAL.cs",
+              "RelativeToolTip": "Data Access Layer(DAL)\\DAL\\San_DAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:54:13.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "QLDatSan_GUI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Presentation Layer (GUI)\\TrangChu\\QLDatSan_GUI.cs",
+              "RelativeDocumentMoniker": "Presentation Layer (GUI)\\TrangChu\\QLDatSan_GUI.cs",
+              "ToolTip": "D:\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Presentation Layer (GUI)\\TrangChu\\QLDatSan_GUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:24:51.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CapNhatLoaiSan_GUI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Presentation Layer (GUI)\\TrangChu\\CapNhatLoaiSan_GUI.cs",
+              "RelativeDocumentMoniker": "Presentation Layer (GUI)\\TrangChu\\CapNhatLoaiSan_GUI.cs",
+              "ToolTip": "D:\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Presentation Layer (GUI)\\TrangChu\\CapNhatLoaiSan_GUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:24:44.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DatSan_GUI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Presentation Layer (GUI)\\TrangChu\\DatSan_GUI.cs",
+              "RelativeDocumentMoniker": "Presentation Layer (GUI)\\TrangChu\\DatSan_GUI.cs",
+              "ToolTip": "D:\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Presentation Layer (GUI)\\TrangChu\\DatSan_GUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:24:47.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NhanSan_GUI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Presentation Layer (GUI)\\TrangChu\\NhanSan_GUI.cs",
+              "RelativeDocumentMoniker": "Presentation Layer (GUI)\\TrangChu\\NhanSan_GUI.cs",
+              "ToolTip": "D:\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Presentation Layer (GUI)\\TrangChu\\NhanSan_GUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:24:50.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TKDoanhThu_GUI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Presentation Layer (GUI)\\TrangChu\\TKDoanhThu_GUI.cs",
+              "RelativeDocumentMoniker": "Presentation Layer (GUI)\\TrangChu\\TKDoanhThu_GUI.cs",
+              "ToolTip": "D:\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Presentation Layer (GUI)\\TrangChu\\TKDoanhThu_GUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:24:53.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ThanhToan_GUI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Presentation Layer (GUI)\\TrangChu\\ThanhToan_GUI.cs",
+              "RelativeDocumentMoniker": "Presentation Layer (GUI)\\TrangChu\\ThanhToan_GUI.cs",
+              "ToolTip": "D:\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Presentation Layer (GUI)\\TrangChu\\ThanhToan_GUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:24:54.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TrangChu_GUI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Presentation Layer (GUI)\\TrangChu\\TrangChu_GUI.cs",
+              "RelativeDocumentMoniker": "Presentation Layer (GUI)\\TrangChu\\TrangChu_GUI.cs",
+              "ToolTip": "D:\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Presentation Layer (GUI)\\TrangChu\\TrangChu_GUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:24:55.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CapNhatCa_GUI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Presentation Layer (GUI)\\TrangChu\\CapNhatCa_GUI.cs",
+              "RelativeDocumentMoniker": "Presentation Layer (GUI)\\TrangChu\\CapNhatCa_GUI.cs",
+              "ToolTip": "D:\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Presentation Layer (GUI)\\TrangChu\\CapNhatCa_GUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:24:43.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "QuenMK_GUI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Presentation Layer (GUI)\\DangNhap\\QuenMK_GUI.cs",
+              "RelativeDocumentMoniker": "Presentation Layer (GUI)\\DangNhap\\QuenMK_GUI.cs",
+              "ToolTip": "D:\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Presentation Layer (GUI)\\DangNhap\\QuenMK_GUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:46:00.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DangNhap_GUI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Presentation Layer (GUI)\\DangNhap\\DangNhap_GUI.cs",
+              "RelativeDocumentMoniker": "Presentation Layer (GUI)\\DangNhap\\DangNhap_GUI.cs",
+              "ToolTip": "D:\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\\u0110\u1ED2 \u00C1N UD QL S\u00C2N B\u00D3NG\\Presentation Layer (GUI)\\DangNhap\\DangNhap_GUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:45:38.819Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
